@@ -15,8 +15,8 @@
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
     "paths": {
-      "@dapr/types": ["libs/shared/types/src/index.ts"],
-      "@dapr/utils": ["libs/shared/utils/src/index.ts"]
+      "@dapr/types": ["libs/types/src/index.ts"],
+      "@dapr/utils": ["libs/utils/src/index.ts"]
     }
   },
   "exclude": ["node_modules", "tmp"]

@@ -20,7 +20,8 @@
     "typescript": "~5.8.2"
   },
   "workspaces": [
-    "packages/*"
+    "packages/*",
+    "libs/*"
   ],
   "dependencies": {
     "@nestjs/common": "^11.1.3",
