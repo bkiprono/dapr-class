@@ -15,8 +15,8 @@
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
     "paths": {
-      "@dapr/types": ["libs/types/src/index.ts"],
-      "@dapr/utils": ["libs/utils/src/index.ts"]
+      "@bdcomputing/types": ["libs/types/src/index.ts"],
+      "@bdcomputing/utils": ["libs/utils/src/index.ts"]
     }
   },
   "exclude": ["node_modules", "tmp"]
