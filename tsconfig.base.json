@@ -15,6 +15,7 @@
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
     "paths": {
+      "@bdcomputing/calculators": ["libs/calculators/src/index.ts"],
       "@bdcomputing/types": ["libs/types/src/index.ts"],
       "@bdcomputing/utils": ["libs/utils/src/index.ts"]
     }
